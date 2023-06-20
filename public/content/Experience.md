@@ -1,29 +1,40 @@
-## Company 1
-- *Role* | Jan'23 - Feb'23
+## Whitelabel Collaborative
+- *Fullstack Engineer* | Jul'22 - May'23
 - ![logo512](../assets/logo512.png)
-- Tags: Category 1
+- Tags: Whitelabel Collaborative
 - Badges:
-  - Badge [blue]
+  - Development [blue]
+  - Documentation [blue]
+  - Accessibility [blue]
+  - Clients [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Collaborated closely with clients to resolve tickets
+  - Built and maintained a robust component library
+  - Prioritized documentation, accessibility, and optimization
 
-## Company 2
-- *Role* | Feb'23 - Mar'23
+## Latitude
+- *Fullstack Engineer / Product Design Lead* | Mar'21 - July'22
 - ![logo512](../assets/logo512.png)
-- Tags: Category 2
+- Tags: Latitude
 - Badges:
-  - Badge [blue]
+  - Development [blue]
+  - Design [blue]
+  - Accessibility [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Developed cross-platform applications through cross-team collaboration
+  - Advocated for accessibility standards, ensuring inclusive design practices
+  - Owned end-to-end feature development ensuring seamless user experiences
+  - Developed wireframes and mockups, guiding the product design process
 
-## Company 3
-- *Role* | Mar'23 - Apr'23
+## LeftVoice
+- *Wordpress Developer* | Jan'21 - Apr'21
 - ![logo512](../assets/logo512.png)
-- Tags: Category 3
+- Tags: LeftVoice
 - Badges:
-  - Badge [blue]
+  - Development [blue]
+  - Wordpress [blue]
+  - Clients [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Collaborated and managed the project with a team
+  - Implemented mobile responsiveness
+  - Built out full news site according to wireframe

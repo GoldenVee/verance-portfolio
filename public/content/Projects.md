@@ -1,26 +1,18 @@
-## Project A
-Description
+## Whitelabel Components Library
+The intended cross-project components library to be used for most of Whitelabel projects for clients. While this did get cancelled due to unforseen complications unrelated to the project, it still showcases the overrall goal.
 - ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 1
+- Tags: Whitelabel Collaborative
 - Badges:
-  - Badge [blue]
+  - Components Library [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Github [https://github.com/GoldenVee/components-library]
 
-## Project B
-Description
+## LeftVoice Website
+A Wordpress site with 15 pages to redesign with a small team.
 - ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 2
+- Tags: LeftVoice
 - Badges:
-  - Badge [blue]
+  - Wordpress [blue]
+  - Redesign [blue]
 - Buttons:
-  - Link [https://example.com]
-
-## Project C
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 3
-- Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]
+  - Website [https://www.leftvoice.org/]

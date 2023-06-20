@@ -1,4 +1,4 @@
-## Project 1
+## Whitelabel Component Library
 Description
 - Tags: Category 1
 - Badges:
@@ -6,7 +6,7 @@ Description
 - Buttons:
   - Link [https://example.com]
 
-## Project 2
+## AI Dungeon
 Description
 - Tags: Category 2
 - Badges:
@@ -14,7 +14,7 @@ Description
 - Buttons:
   - Link [https://example.com]
 
-## Project 3
+## LeftVoice Website
 Description
 - Tags: Category 3
 - Badges:
